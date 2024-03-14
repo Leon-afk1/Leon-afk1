@@ -50,6 +50,23 @@ Hello! I'm Léon, a computer science student at the University of Technology of 
 
 ---
 
+### 🧑‍💼 Some of my projects :
+
+<div id="Projects" align="center">
+  
+| Project  | Content | Course/Personal project | Language|
+| ------------- | ------------- | ------------- | ------------- |
+| [Social network website](https://github.com/Leon-afk1/social_network_website)  | A twitter like website  | Course project | HTML/Php/CSS/JavaScript |
+| [Tic tac toe](https://github.com/Leon-afk1/tic-tac-toe)  | A tic tac toe and ultimate tic tac toe with AI  | Personal project | Python |
+| [Munchkin like game](https://github.com/Leon-afk1/munchkin) | The munchkin game but with school environment | Course project | Java |
+| [Sensors](https://github.com/Leon-afk1/sensor) | Simulation of the gestion of several sensors | Course project | C++ |
+| [Tangram Solver](https://github.com/Leon-afk1/Tangram_solver) | A classic tangram solver | Course project | Python |
+| [Ascensor](https://github.com/Leon-afk1/ascenseur) | A simulation of how would react two ascensor | Course project | C |
+| [Social network graph](https://github.com/Leon-afk1/social_network_in_cpp) | Function and algorithm of a social media like graph | Course project | C++ |
+| [List and tree](https://github.com/Leon-afk1/list-and-tree-in-C) | A lot of pratical function and algorithm for list and tree in C | Personal project | C |
+</div>
+
+---
 
 ### :fire: My Stats :
 
