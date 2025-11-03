@@ -54,6 +54,7 @@ Passionate about leveraging data to solve complex problems, my primary focus is 
 
 #### Public Repositories:
 
+* **[Hackaton Conformit X UQAC](https://github.com/Leon-afk1/Hackathon_CTI_UQAC)** *My team project, an **intelligent conversational system combining a RAG** (Retrieval-Augmented Generation) chatbot and **an interactive dashboard**.
 * **[Portfolio Website](https://github.com/Leon-afk1/Leon-afk1.github.io)** * My personal portfolio showcasing projects and skills. Includes an interactive MNIST demo using ONNX.js.
     * *Tech: HTML, CSS, Vanilla JavaScript, ONNX Runtime Web*
 * **[Music Genre Classification](https://github.com/Leon-afk1/Music_type_classification)** * (UTBM Group Project) Compared SVM (optimized with GridSearchCV) and a Keras Neural Network for classifying music genres using the GTZAN dataset. Tracked experiments with WandB.
