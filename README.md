@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZ4MWQyZmNndG5sNm13angyY2JpZWl4ZzEzZTgyNmM1a3VzYXBsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="200"/>
 
   <h1>Hi there, I'm Léon Morales</h1>
-  <h3>AI & Machine Learning Engineer | Deep Learning | RAG Systems</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Deep+Learning;Agentic+AI+Explorer" alt="Typing animation" />
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/léon-morales">
@@ -28,6 +28,13 @@ I specialize in **Machine Learning, Deep Learning, and Computer Vision**, with a
 - **Previously:** AI Engineering Intern at **Ksilink** (Strasbourg), working on LLM-based chatbots, Graph RAG, and Biomedical Computer Vision.
 - **Contact:** [leon.morales@utbm.fr](mailto:leon.morales@utbm.fr) or via [LinkedIn](https://www.linkedin.com/in/léon-morales).
 
+<br>
+<div align="center">
+  <img src="neo4j_profile.png" alt="Neo4j Knowledge Graph of my Skills" width="100%"/>
+  <p><i>A graph representation of my skills, projects, and experiences modeled in Neo4j.</i></p>
+</div>
+<br>
+
 ---
 
 ### Core AI/ML Skills & Tools
@@ -37,12 +44,8 @@ I specialize in **Machine Learning, Deep Learning, and Computer Vision**, with a
 * **Specialized Areas:** Deep Learning (CNNs, Transformers), Computer Vision, Multimodal AI, Graph RAG, Agentic AI, Self-Supervised Learning
 * **Databases & Tools:** Neo4j (Certified Professional), Git, Weights & Biases (WandB), Flutter
 
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original-wordmark.svg" title="Neo4j" alt="Neo4j" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,git,github,docker,c,cpp,vscode&theme=dark" alt="Léon's Skills" />
 </div>
 
 ---
@@ -61,13 +64,25 @@ I specialize in **Machine Learning, Deep Learning, and Computer Vision**, with a
 
 #### Public Repositories
 
-| Project | Description | Technologies |
-| :--- | :--- | :--- |
-| **[AgroScan: AI Agricultural Diagnosis](https://github.com/Leon-afk1/agroscan)** | Mobile application integrating embedded AI models for automated plant disease diagnosis. Features an explainable AI pipeline using Grad-CAM for transparent visual predictions. | Python, TensorFlow Lite, Flutter, CV (HOG, LBP), Grad-CAM |
-| **[Multimodal Parkinson's Detection](https://github.com/Leon-afk1/multimodal-parkinson-detection)** | Web app using a multimodal AI architecture to fuse and analyze voice, keystroke dynamics (NeuroQwerty), and spiral drawings. Developed in 1 week (UQAC x HELHa). | Python, ML (XGBoost), Multimodal Data Fusion |
-| **[Hackathon Conformit X UQAC](https://github.com/Leon-afk1/Hackathon_CTI_UQAC)** | Intelligent conversational system combining a RAG (Retrieval-Augmented Generation) chatbot and an interactive dashboard. | Python, RAG, LLMs, Dashboarding |
-| **[ChatBot UQAC](https://github.com/Leon-afk1/ChatBot_UQAC)** | NLP and conversational AI explorations. | Python, NLP |
-| **[Interactive AI Portfolio](https://github.com/Leon-afk1/Leon-afk1.github.io)** | Personal portfolio showcasing projects and skills, featuring an interactive MNIST demo using ONNX.js directly in the browser. | Web Dev, ONNX.js |
+<div align="center">
+  <a href="https://github.com/Leon-afk1/agroscan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leon-afk1&repo=agroscan&theme=vision-friendly-dark&hide_border=true" alt="AgroScan Repo" />
+  </a>
+  <a href="https://github.com/Leon-afk1/multimodal-parkinson-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leon-afk1&repo=multimodal-parkinson-detection&theme=vision-friendly-dark&hide_border=true" alt="Multimodal Parkinson Detection Repo" />
+  </a>
+  <br/>
+  <a href="https://github.com/Leon-afk1/Hackathon_CTI_UQAC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leon-afk1&repo=Hackathon_CTI_UQAC&theme=vision-friendly-dark&hide_border=true" alt="Hackathon CTI UQAC Repo" />
+  </a>
+  <a href="https://github.com/Leon-afk1/ChatBot_UQAC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leon-afk1&repo=ChatBot_UQAC&theme=vision-friendly-dark&hide_border=true" alt="ChatBot UQAC Repo" />
+  </a>
+  <br/>
+  <a href="https://github.com/Leon-afk1/Leon-afk1.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leon-afk1&repo=Leon-afk1.github.io&theme=vision-friendly-dark&hide_border=true" alt="Portfolio Repo" />
+  </a>
+</div>
 
 #### Key Industrial Experience (Ksilink - Proprietary Code)
 
@@ -82,7 +97,7 @@ I specialize in **Machine Learning, Deep Learning, and Computer Vision**, with a
 ### GitHub Stats
 
 <div id="Stat" align="center">
-  <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Leon-afk1&theme=youtube-dark&card_width=600)](https://git.io/streak-stats) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon-afk1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
